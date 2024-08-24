@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">I'm a passionate Computer Science student studying at Mapúa University.</h3>
+<iframe align="right" src="https://giphy.com/embed/r2DUElTq9VYMfjxWNA" width="400" height="400" style="border:none;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/stickers/girl-work-anonstamp-r2DUElTq9VYMfjxWNA">via GIPHY</a></p>
+
 
 - 🌸 I’m currently learning **frontend development to create more beautiful projects**
 
