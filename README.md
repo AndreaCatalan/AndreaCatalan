@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I am Andrea</h1>
 <h3 align="center">I'm a passionate Computer Science student studying at Mapúa University.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/r2DUElTq9VYMfjxWNA/giphy.gif" style="border:none;">
+<br>
 
 - 🌸 I’m currently learning **frontend development to create more beautiful projects**
 
