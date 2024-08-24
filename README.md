@@ -9,8 +9,6 @@
 
 - 💝 How to reach me: **andreacatalan567@gmail.com**
 
-- 💪🏻 Fun fact, **I love body building..**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
