@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" width="600" src="https://drive.google.com/uc?export=view&id=1IwisR23aLQkWfYPrL8auB1a1PHl1ZexG">
+<img align="center" alt="Banner" width="900" src="https://drive.google.com/uc?export=view&id=1IwisR23aLQkWfYPrL8auB1a1PHl1ZexG">
 <h1 align="center">Hi 👋, I am Andrea</h1>
 <h3 align="center">I'm a passionate Computer Science student studying at Mapúa University.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/r2DUElTq9VYMfjxWNA/giphy.gif" style="border:none;">
