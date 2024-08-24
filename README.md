@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">I'm a passionate Computer Science student studying at Mapúa University.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/girl-work-anonstamp-r2DUElTq9VYMfjxWNA" style="border: none;" class="giphy-embed" allowFullScreen>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreacatalan&label=Profile%20views&color=0e75b6&style=flat" alt="andreacatalan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreacatalan" alt="andreacatalan" /></a> </p>
 
 - 🌸 I’m currently learning **frontend development to create more beautiful projects**
 
 - 🎀 I'm interested in **content creations, community participations, and building applications**
 
-- 💝 How to reach me **andreacatalan567@gmail.com**
+- 💝 How to reach me: **andreacatalan567@gmail.com**
 
-- 💪🏻 Fun fact **I love body building..**
+- 💪🏻 Fun fact, **I love body building..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
